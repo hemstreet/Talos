@@ -1,12 +1,12 @@
 {
-  "name": "talos",
+  "name": "script",
   "version": "1.0.0",
-  "description": "",
+  "description": "Javascript Boiler Plate",
   "main": "script.js",
   "author": "",
-  "license": "ISC",
-  "dependencies" : {
-    "lodash" : "*",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "latest",
     "node-core-audio" : "*"
   }
 }
