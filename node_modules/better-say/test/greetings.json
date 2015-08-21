@@ -1,0 +1,11 @@
+{
+   "options": {
+      "voice": "vicki",
+      "writetext": true
+	},
+  "sentences": [
+    "Hello how are you today",
+    "this system is using better-say", 
+    "for the current version, better-say is exclusive only for Mac OSX users"
+  ]
+}

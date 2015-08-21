@@ -6,7 +6,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "better-say": "0.0.2",
+    "cron": "latest",
     "lodash": "latest",
-    "node-core-audio" : "*"
+    "speaker": "latest",
+    "wav": "latest"
   }
 }
